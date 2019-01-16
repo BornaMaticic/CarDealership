@@ -38,4 +38,8 @@ public abstract class Car {
     public String getType() {
         return type;
     }
+
+    public void changeCarPrice(int money){
+        this.price += money;
+    }
 }

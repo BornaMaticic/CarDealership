@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c4038d3-f580-4e85-809b-b68f4a57c1c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/carDealership/CarDealership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/carDealership/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/carDealership/Till.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/carDealership/TillTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/carDealership/CarDealershipTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/carDealership/CarDealership.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carDealership/CarDealership.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/carDealership/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/carDealership/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/carDealership/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/carDealership/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carDealership/CarDealership.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carDealership/CarDealership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carDealership/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carDealership/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cars/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,26 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cars/HybridCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#831#832#0" expanded="true" />
-                <element signature="e#872#873#0" expanded="true" />
-                <element signature="e#931#932#0" expanded="true" />
-                <element signature="e#970#971#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cars/HybridCarTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,8 +47,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/carDealership/CarDealership.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="113">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cars/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/carDealership/CarDealershipTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#1022#1023#0" expanded="true" />
+                <element signature="e#1052#1053#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/carDealership/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="393">
+              <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#216#217#0" expanded="true" />
@@ -84,6 +112,8 @@
                 <element signature="e#302#303#0" expanded="true" />
                 <element signature="e#350#351#0" expanded="true" />
                 <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,11 +122,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
               <folding>
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
                 <element signature="e#295#296#0" expanded="true" />
                 <element signature="e#325#326#0" expanded="true" />
                 <element signature="e#392#393#0" expanded="true" />
@@ -104,6 +132,15 @@
                 <element signature="e#506#507#0" expanded="true" />
                 <element signature="e#536#537#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cars/ElectricCarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -125,41 +162,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/carDealership/TillTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#193#194#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
                 <element signature="e#267#268#0" expanded="true" />
                 <element signature="e#290#291#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IFuel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cars/DieselCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -203,7 +215,6 @@
         <option value="$PROJECT_DIR$/src/main/java/components/Tyres.java" />
         <option value="$PROJECT_DIR$/src/test/java/TyresTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/components/TyresTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cars/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/behaviours/IElectric.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/ElectricCar.java" />
         <option value="$PROJECT_DIR$/src/test/java/cars/ElectricCarTest.java" />
@@ -212,10 +223,13 @@
         <option value="$PROJECT_DIR$/src/test/java/cars/DieselCarTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cars/HybridCar.java" />
         <option value="$PROJECT_DIR$/src/test/java/cars/HybridCarTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/carDealership/Customer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/carDealership/Till.java" />
         <option value="$PROJECT_DIR$/src/test/java/carDealership/TillTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carDealership/Customer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cars/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/carDealership/CarDealership.java" />
+        <option value="$PROJECT_DIR$/src/test/java/carDealership/CarDealershipTest.java" />
       </list>
     </option>
   </component>
@@ -300,6 +314,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carDealership" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cardealership" type="b2602c69:ProjectViewProjectNode" />
+              <item name="composition_lab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cars" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -319,7 +341,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547649140253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547651491408" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
@@ -347,7 +369,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TillTest">
+  <component name="RunManager" selected="JUnit.CarDealershipTest">
+    <configuration name="CarDealershipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.cardealership.cardealership.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carDealership.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carDealership" />
+      <option name="MAIN_CLASS_NAME" value="carDealership.CarDealershipTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarDealershipTest.sellCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.cardealership.cardealership.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carDealership.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carDealership" />
+      <option name="MAIN_CLASS_NAME" value="carDealership.CarDealershipTest" />
+      <option name="METHOD_NAME" value="sellCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.cardealership.cardealership.test" />
       <extension name="coverage">
@@ -362,45 +414,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DieselCarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CustomerTest.canBuyCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.cardealership.cardealership.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cars.*" />
+          <option name="PATTERN" value="carDealership.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cars" />
-      <option name="MAIN_CLASS_NAME" value="cars.DieselCarTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HybridCarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.cardealership.cardealership.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cars" />
-      <option name="MAIN_CLASS_NAME" value="cars.HybridCarTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HybridCarTest.canIncreasePower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.codeclan.cardealership.cardealership.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cars" />
-      <option name="MAIN_CLASS_NAME" value="cars.HybridCarTest" />
-      <option name="METHOD_NAME" value="canIncreasePower" />
+      <option name="PACKAGE_NAME" value="carDealership" />
+      <option name="MAIN_CLASS_NAME" value="carDealership.CustomerTest" />
+      <option name="METHOD_NAME" value="canBuyCar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -422,11 +446,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TillTest" />
+        <item itemvalue="JUnit.CarDealershipTest" />
+        <item itemvalue="JUnit.CarDealershipTest.sellCar" />
+        <item itemvalue="JUnit.CustomerTest.canBuyCar" />
         <item itemvalue="JUnit.CustomerTest" />
-        <item itemvalue="JUnit.HybridCarTest" />
-        <item itemvalue="JUnit.DieselCarTest" />
-        <item itemvalue="JUnit.HybridCarTest.canIncreasePower" />
+        <item itemvalue="JUnit.TillTest" />
       </list>
     </recent_temporary>
   </component>
@@ -444,15 +468,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ElectricCarTest - 2019.01.16 at 13h 54m 23s.xml">
-      <configuration name="ElectricCarTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ElectricCarTest_canUsePower - 2019.01.16 at 14h 11m 35s.xml">
-      <configuration name="ElectricCarTest.canUsePower" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ElectricCarTest_canUsePower - 2019.01.16 at 14h 11m 38s.xml">
-      <configuration name="ElectricCarTest.canUsePower" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ElectricCarTest_canIncreasePower - 2019.01.16 at 14h 12m 27s.xml">
       <configuration name="ElectricCarTest.canIncreasePower" configurationId="JUnit" />
     </history-entry>
@@ -474,6 +489,15 @@
     <history-entry file="TillTest - 2019.01.16 at 14h 32m 23s.xml">
       <configuration name="TillTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CustomerTest - 2019.01.16 at 14h 53m 50s.xml">
+      <configuration name="CustomerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomerTest_canBuyCar - 2019.01.16 at 14h 57m 10s.xml">
+      <configuration name="CustomerTest.canBuyCar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarDealershipTest - 2019.01.16 at 15h 03m 53s.xml">
+      <configuration name="CarDealershipTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -484,16 +508,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22889842" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3278496" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.28202116" />
       <window_info anchor="bottom" id="Messages" weight="0.32902467" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33734939" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32902467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -533,25 +557,6 @@
             <element signature="e#262#263#0" expanded="true" />
             <element signature="e#294#295#0" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -635,17 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cars/ElectricCarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/behaviours/IFuel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -710,46 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carDealership/CarDealership.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/carDealership/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/carDealership/Till.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -767,13 +721,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/carDealership/TillTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#193#194#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
             <element signature="e#267#268#0" expanded="true" />
             <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cars/ElectricCarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carDealership/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/carDealership/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cars/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/carDealership/CarDealership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/carDealership/CarDealershipTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
           </folding>
         </state>
       </provider>

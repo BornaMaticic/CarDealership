@@ -1,6 +1,7 @@
 package carDealership;
 
 import cars.Car;
+import cars.ElectricCar;
 
 import java.util.ArrayList;
 
@@ -28,5 +29,15 @@ public class Customer {
         return carCollection;
     }
 
+    public void addCarToCollection(Car car){
+        this.carCollection.add(car);
+    }
 
+
+    public void buyCar(Car car) {
+        if (this.wallet >= car.getPrice()) {
+            this.wallet -= car.getPrice();
+        }
+        addCarToCollection(car);
+    }
 }
