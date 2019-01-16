@@ -47,7 +47,6 @@ public class CarDealership {
     }
 
 
-
     public void environmentCashBack(Car car){
         if (car instanceof IElectric){
             car.changeCarPrice(-1000);
